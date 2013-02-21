@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://morganwatch.github.com/sitemap.xml 
